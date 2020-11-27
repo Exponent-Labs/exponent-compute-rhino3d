@@ -7,4 +7,5 @@ setup(name='compute-rhino3d',
       description='Patched version',
       packages=["compute_rhino3d"],
       license='',
+      install_requires=["requests"]
     )
